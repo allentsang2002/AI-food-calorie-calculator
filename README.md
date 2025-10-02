@@ -1,5 +1,5 @@
 # AI-food-calorie-calculator
-for IOS, school project using HKBU ChatGPT api
+for IOS, school project using HKBU ChatGPT api and use Edamam to calorie calculate
 
 <img width="300" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-10-02 at 09 56 27" src="https://github.com/user-attachments/assets/20b562e3-60d7-4e06-b608-4ff5ee08386d" />
 <img width="300" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-10-02 at 09 56 32" src="https://github.com/user-attachments/assets/5410f1d0-bf25-4716-9bcf-de20f16acf41" />
